@@ -1,0 +1,7 @@
+F:\Aliceru\mywork\ArrayInsert\ArrayInsert\bin\Debug\ArrayInsert.exe.config
+F:\Aliceru\mywork\ArrayInsert\ArrayInsert\bin\Debug\ArrayInsert.exe
+F:\Aliceru\mywork\ArrayInsert\ArrayInsert\bin\Debug\ArrayInsert.pdb
+F:\Aliceru\mywork\ArrayInsert\ArrayInsert\obj\Debug\ArrayInsert.csprojAssemblyReference.cache
+F:\Aliceru\mywork\ArrayInsert\ArrayInsert\obj\Debug\ArrayInsert.csproj.CoreCompileInputs.cache
+F:\Aliceru\mywork\ArrayInsert\ArrayInsert\obj\Debug\ArrayInsert.exe
+F:\Aliceru\mywork\ArrayInsert\ArrayInsert\obj\Debug\ArrayInsert.pdb
